@@ -1,0 +1,15 @@
+Debian
+RHEL
+Arch
+Slackware
+Gentoo
+Ubuntu
+Mint
+Fedora
+Pop
+Zorin
+Kali
+Alpine
+Tails
+Asahi
+OpenWrt
